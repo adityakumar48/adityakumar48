@@ -116,5 +116,5 @@
   
 
 <br/>  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityakumar48&theme=github_dark)
+![leo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityakumar48&theme=github_dark)
 
