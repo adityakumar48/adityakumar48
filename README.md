@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Visinigiri Aditya, a full-time full-stack Web developer 👨‍💻</div>  
+### <div align="center">I'm Visinigiri Aditya, a full-stack Web developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Web and App Projects](https://github.com/adityakumar48?tab=repositories)  
