@@ -28,7 +28,7 @@
 <a href="https://stackoverflow.com/users/14646990/visinigiri-aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14646990/visinigiri-aditya" height="30" width="40" /></a>
 <a href="https://instagram.com/ranochtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranochtech" height="30" width="40" /></a>
 <a href="https://medium.com/@visinigiri-aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@visinigiri-aditya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucnuz3ylwxopfr7smt8aepxq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnuz3ylwxopfr7smt8aepxq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCnUZ3ylWXOpfR7sMt8AEPxQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnuz3ylwxopfr7smt8aepxq" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/adityakumar48" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adityakumar48" height="30" width="40" /></a>
 </p>
 
