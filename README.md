@@ -115,7 +115,8 @@
   
 <br/>  
 <div>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=adityakumar48&theme=chartreuse-dark" width="390"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=adityakumar48&theme=chartreuse-dark" />  
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakumar48&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" width="390"/>
 </div>
 <img src= "https://activity-graph.herokuapp.com/graph?username=adityakumar48&theme=chartreuse-dark"/>
