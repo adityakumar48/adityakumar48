@@ -106,15 +106,21 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=adityakumar48&&style=flat-square" align="center" />
 </div>  
-  
 <br/>  
 <div>
+
+     
+<img src="https://github-readme-streak-stats.herokuapp.com?user=adityakumar48&theme=chartreuse-dark" />  
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakumar48&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" width="390"/>
+=======
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar48&layout=compact&theme=chartreuse-dark)
   
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adityakumar48&theme=chartreuse-dark)  
   
 ![GitHub graph](https://activity-graph.herokuapp.com/graph?username=adityakumar48&theme=chartreuse-dark) 
+
 </div>
 
 
