@@ -101,11 +101,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adityakumar48&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ecbnsdv2jzivauziy3w7e3ilpm&cover_image=true&theme=default" /></div>  
-
 <br/>  
 
 <div align="center">
