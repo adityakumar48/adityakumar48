@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Web and App Projects](https://github.com/adityakumar48?tab=repositories)  
   
 
-- 🌱 I’m currently learning MERN stack  
+- 🌱 I’m currently learning Nextjs + TS  
   
 
 - ❓ Ask me about anything related to React and related technologies  
